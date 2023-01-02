@@ -1,4 +1,4 @@
-# OptionsPricing
+# option-pricing
 In this project I explore various methods for pricing vanilla and exotic options taking an object-oriented approach (Full C++ version coming soon!)
 
 # Python
